@@ -110,5 +110,11 @@ Detailed SDLC documentation is provided in **SDLC_Waterfall_Model.docx**.
 
 ---
 
+## GitHub Repository Link
+https://github.com/joel-abiodun/student-grade-management-system
+
+---
+
+
 ## Conclusion
 This project demonstrates effective use of Python programming and software development principles.
